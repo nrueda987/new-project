@@ -1,0 +1,48 @@
+#sfgiants{
+    font-size:150px;
+    text-align: center; 
+    }
+#P1{
+    color:white;
+    background-color: black;
+    position:relative;
+    display:inline-block;
+    border:5px solid white;
+    padding:5px;
+    text-indent: 30px;
+    }
+     #Legend{
+    color:white;
+    background-color: black;
+    position:relative;
+    display:inline-block;
+    border:5px solid white;
+    padding:5px;
+    text-indent: 30px;
+    }
+     #stat{
+    color:white;
+    background-color: black;
+    position:relative;
+    display:inline-block;
+    border:5px solid white;
+    padding:5px;
+    text-indent: 30px;
+    }
+#navbar{
+
+    text-align: center;
+}
+#navbar li {
+    display: inline-block;
+    padding: 10px;
+    border:12px ridge purple;
+    background-color:white;
+}
+
+html {
+    background: url("https://amazingpict.com/wp-content/uploads/2015/12/cosmic-sports.jpg") no-repeat center center fixed;
+    
+    background-size: cover;
+}
+
